@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:7.000000,
+videoplayback0.ts
+#EXTINF:7.000000,
+videoplayback1.ts
+#EXTINF:7.000000,
+videoplayback2.ts
+#EXTINF:7.000000,
+videoplayback3.ts
+#EXTINF:2.800000,
+videoplayback4.ts
+#EXT-X-ENDLIST
